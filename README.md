@@ -1,0 +1,2 @@
+# insert_sql_create
+csvで読み込んだデータのinsert文を自動で作成してくれるツール
